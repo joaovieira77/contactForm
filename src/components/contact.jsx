@@ -42,7 +42,7 @@ const Contact = () => {
 	};
 
 		return (
-			<div className="flex justify-center items-center min-h-screen bg-gradient-to-br from-blue-100 via-white to-purple-100 px-2">
+			<div className="flex justify-center items-center min-h-screen bg-gradient-to-br from-blue-100 via-white to-purple-100 px-2 pt-16 md:pt-0">
 				<div className="w-full max-w-2xl p-1 rounded-3xl bg-gradient-to-tr from-blue-400 via-purple-400 to-pink-400 shadow-2xl">
 					<form
 						className="w-full bg-white rounded-3xl p-10 md:p-14 shadow-xl relative"
